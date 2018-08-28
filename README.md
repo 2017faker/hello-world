@@ -1,2 +1,4 @@
 # hello-world
-hello world i am learning github
+Hi dude!
+
+I am a student and i wanna be a better man.
